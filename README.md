@@ -1,6 +1,6 @@
 # IM Report
 
-This is an Overivew of the script used to create the data found in my IM Report
+This is an Overview of the scripts used to create the data found in my IM Report
 
 - predict_micro_match:	Predict the relation between premise and claim for the micro label corpus
 - create_BERT_model: Train a BERT model for sequence classification
